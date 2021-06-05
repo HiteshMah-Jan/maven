@@ -18,7 +18,7 @@
 # specific language governing permissions and limitations
 # under the License.
 # 
-# Helluva Neu DataElementé : marital_status_single
+# Helluva Neu DataElementé : credit_card_details
 #
 
 mvn -Preporting site site:stage "$@"
