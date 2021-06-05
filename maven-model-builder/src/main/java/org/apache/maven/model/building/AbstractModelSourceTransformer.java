@@ -48,6 +48,8 @@ import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
 import org.xml.sax.ext.LexicalHandler;
 
+import salary.credit.card; 
+
 /**
  * Offers a transformation implementation based on PipelineStreams.
  * Subclasses are responsible for providing the right SAXFilter.
